@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class V1ServiceApplication {
+public class V1ServicePosiApplication {
     public static void main(String[] args) {
-        SpringApplication.run(V1ServiceApplication.class, args);
+        SpringApplication.run(V1ServicePosiApplication.class, args);
     }
 }
